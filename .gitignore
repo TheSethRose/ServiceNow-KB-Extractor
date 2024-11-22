@@ -333,7 +333,6 @@ ASALocalRun/
 
 # Environment variables
 .env
-.env.*
 
 # Python
 __pycache__/
