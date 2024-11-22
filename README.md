@@ -89,26 +89,3 @@ articles/
     └── Benefits/
         └── Employee-Benefits.md
 ```
-
-## Output Format
-
-Each article is saved as a markdown file with frontmatter metadata:
-
-```markdown
-```
-title: "Article Title"
-author: "John Smith"
-author_sys_id: "123456789abcdef"
-created_date: "2024-01-15 10:30:00"
-updated_date: "2024-02-01 15:45:00"
-views: "91"
-rating: "4"
-knowledge_base: "IT"
-category: "Security"
-sys_id: "987654321fedcba"
-```
-
-# Article Title
-
-Article content in markdown format...
-```
